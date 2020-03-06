@@ -1,0 +1,5 @@
+n_estimators = 300, max_features = round(math.sqrt(len(X_train.columns)))
+
+변수 중 fr_yn, dt_of_fr, id, lw_13101010, lw_13101110, lw_13101210, lw_13101211, lw_13101310, lw_13101410, lw_13111010, lw_13111110, lw_13121010, lw_13121011, lw_13131010, lw_13131110, lw_13141010, lw_13141011, prcpttn 제거
+
+COMPAS 점수  0.47876

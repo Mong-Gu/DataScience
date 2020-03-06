@@ -1,0 +1,4 @@
+n_estimators = 90, max_features = round(math.sqrt(len(X_train.columns)))
+변수 중 fr_yn, dt_of_fr, id 제거
+
+COMPAS 점수 : 0.48816

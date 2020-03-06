@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571283127117.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3111242471",
+    "id" : "2500347F",
+    "lastKnownWriteTime" : 1571290860,
+    "last_content_update" : 1571290860365,
+    "path" : "C:/DA2019/R_practice/191017/과제01.R",
+    "project_path" : "191017/과제01.R",
+    "properties" : {
+        "cursorPosition" : "16,4",
+        "scrollLine" : "14",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
