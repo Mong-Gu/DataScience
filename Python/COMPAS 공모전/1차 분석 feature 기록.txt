@@ -1,9 +1,0 @@
-변수 : 
-- 기존 데이터에서 object 형태는 categorical variable로 변환
-- 기존 데이터에서 fr_yn은 binary 형태로 변환
-- 모델에 fitting할 X_train, X_val을 만들 때에는 fr_yn, id 만 제거
-
-X_train.shape : (59199, 178)
-X_val.shape : (6898, 178)
-test.shape : (2957, 178)
-
